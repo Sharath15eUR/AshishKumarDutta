@@ -14,3 +14,4 @@ Week 6 programming assignment ✔
 
 # Spoken_Tutorials Assignments
 Assignment 1 ✔
+Assignment 2 ✔
