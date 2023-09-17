@@ -11,3 +11,6 @@ Week 3 programming assignment ✔
 Week 4 programming assignment ✔
 Week 5 programming assignment ✔
 Week 6 programming assignment ✔
+
+# Spoken_Tutorials Assignments
+Assignment 1 ✔
