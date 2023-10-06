@@ -21,3 +21,7 @@ Module 1 ✔
 Module 2 ✔
 Module 3 ✔
 Module 4 ✔
+Module 5 ✔
+
+
+I HAVE COMPLETED THE NPTEL ASSIGNMENTS FOR WEEK 8,9 AND 10. I WILL UPLOAD IT SOON.
