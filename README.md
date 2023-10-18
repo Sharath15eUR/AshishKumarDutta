@@ -19,6 +19,8 @@ Week 7 programming assignment ✔
 Week 8 programming assignment ✔
 Week 9 programming assignment ✔
 Week 10 programming assignment ✔
+Week 11 programming assignment ✔
+Week 12 programming assignment ✔
 
 # Spoken_Tutorials Assignments
 Module 1 ✔
